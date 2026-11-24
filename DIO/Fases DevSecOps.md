@@ -70,6 +70,8 @@ Cada etapa do ciclo de vida do software recebe um ajuste de segurança. Veja com
 
 O diagrama de Venn compara os dois modelos.
 
+![Diagrama de Venn comparando DevOps e DevSecOps](image-1.png)
+
 **DevOps (à esquerda):** mostra a colaboração entre **Development** (Desenvolvimento) e **IT Operations** (Operações de TI), unidos para a entrega veloz do produto (**Application Delivery**). No centro, a prioridade é a **agilidade** e a **automação dos lançamentos**. Nesse modelo, a segurança costumava ser um processo isolado, executado por uma **equipe separada apenas no final do ciclo**, o que gerava retrabalho e atrasos.
 
 **DevSecOps (à direita):** adiciona o quarto círculo, **Security** (Segurança), com a mesma importância dos outros três. A segurança deixa de ser o último obstáculo ou uma equipe isolada e passa a fazer parte de todas as fases da entrega de software. O objetivo é que **todos na equipe compartilhem a responsabilidade pela segurança**, automatizando processos e detectando falhas enquanto o produto é planejado e codificado, o chamado ***Shift Left***.
@@ -84,6 +86,8 @@ O diagrama de Venn compara os dois modelos.
 ## 3. Pirâmide de testes DevSecOps
 
 A pirâmide mostra como organizar a execução dos testes de forma equilibrada. A **base** concentra testes rápidos e baratos, com ampla cobertura de segurança. O **topo** reserva os testes mais caros e pesados, como os E2E e o DAST.
+
+![Pirâmide de testes DevSecOps](Gemini_Generated_Image_z4x9dzz4x9dzz4x9.jpg)
 
 Pense na pirâmide como uma escada de custo e tempo: quanto mais alto o nível, maior o custo e o tempo de execução, mas também maior o foco em comportamento real do sistema.
 
