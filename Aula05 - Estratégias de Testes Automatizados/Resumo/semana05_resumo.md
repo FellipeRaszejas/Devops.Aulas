@@ -1,3 +1,4 @@
+
 # Semana 05 — Resumo: Estratégias de Testes, Pirâmide de Testes e Quality Gates
 
 ## A Pirâmide de Testes
